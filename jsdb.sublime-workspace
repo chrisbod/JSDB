@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"calculateDistnc",
+				"calculateDistanceByRef(lookup,star1Name,star2Name)	distance.htm"
+			],
+			[
+				"check",
+				"checkForEndHandler"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"origi",
+				"originalPosition"
+			],
+			[
+				"_pre",
+				"_previousState"
+			],
+			[
+				"Event",
+				"domEventHandler"
+			],
+			[
+				"dome",
+				"domEventHandler"
+			],
+			[
+				"domEve",
+				"domEventListeners"
+			],
+			[
+				"CSS",
+				"CSS3DObject"
+			],
+			[
+				"matrixWor",
+				"matrixWorldInverse"
+			],
+			[
+				"get",
+				"getCSSMatrix3D"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"SQL",
+				"JSONSQLTable(tableName,columnDefinitions,results)	jsonsqltable.js"
+			],
+			[
+				"D",
+				"DatabaseManager(name)	database.js"
+			],
+			[
+				"lastModi",
+				"newLastModified	database.htm"
+			],
+			[
+				"insertNex",
+				"insertNextSystemObject(systems)	database.htm"
+			],
+			[
+				"populat",
+				"populateWithJSON(xhr)	database.htm"
+			],
+			[
+				"getLast",
+				"getLastModified()	database.htm"
+			],
+			[
+				"XML",
+				"XMLHttpRequest()	xmlhttprequest.js"
+			],
+			[
+				"Jason",
+				"JasonUtilities"
+			],
+			[
+				"each",
+				"eachFunction"
+			],
+			[
+				"test",
+				"testData"
+			],
+			[
+				"trackedOb",
+				"trackedObjectStore"
+			],
+			[
+				"Object",
+				"ObjectStore"
+			],
+			[
+				"Tracke",
+				"TrackedObjectStore"
+			],
+			[
+				"filter",
+				"filterCaller"
+			],
+			[
+				"before",
+				"beforeEach(fn)	jasmine.js"
+			],
+			[
+				"base",
+				"baseModelTest(value, model)	basemodel.helpers.js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: nstall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/GitHub/JSDB"
+	],
+	"file_history":
+	[
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/lib/stats.min.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/images/3d/sphere.svg",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/lib/CSS3DRenderer_opt.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/three.js css3d - molecules1.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/lib/TrackballControls.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/lib/TrackballControls_orig.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/three.js css3d - molecules.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/three.js css3d - molecules_files/CSS3DRenderer_opt.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/three.js css3d - molecules_files/CSS3DRenderer.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/three.js css3d - molecules_files/TrackballControls.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/lib/CSS3DRenderer.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/images/three.js   examples.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/stations.json",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/database1.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/database.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/track.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/3d_colors.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/3d.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/3d1.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/images/three.js   examples_files/webgl_particles_billboards_colors.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/images/three.js   examples_files/webgl_particles_billboards.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/defaultData.csv",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/style.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/jsonsqltable.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/index.html",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/db.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/astronomy.js",
+		"/G/tycho2/test.ps1",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/listings.json",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/explore/explore.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/database.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/stations_.json",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/sqrt.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/clean.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/js/localstarcube.js",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/final.htm",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/constellations.json",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/systems.json",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/unsure1.txt",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/unsure3.txt",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/unsure2.txt",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/crossref_proper.txt",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/crossref1.txt",
+		"/C/Users/christian/Documents/GitHub/EDCoPilot/app/crossref2.txt",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/JasonUtilities.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/JasonPath.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/spec/path.spec.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/dog.html",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/IE7+compat mode ie8.txt",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/lib/jasmine-2.0.0/boot.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/lib/jasmine-2.0.0/jasmine-html.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/spec/array.forEach.spec.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/array.forEach.html",
+		"/C/Users/christian/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/delete.json",
+		"/C/Users/christian/Desktop/functional.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/spec/model.number.spec.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/spec/model.spec.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/spec/json.json",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/path.html",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/model.js",
+		"/C/string.htm",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/jason.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/TrackedObjectStore.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/model.number.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/gruntfile.js",
+		"/C/Users/christian/Desktop/test.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/test/jasmine/helpers/basemodel.helpers.js",
+		"/C/Users/christian/Documents/GitHub/JasonJS/src/number.js",
+		"/C/Users/christian/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\christian\\Documents\\GitHub\\app,*.html",
+			"C:\\Users\\christian\\Documents\\GitHub\\app,*.htm",
+			"C:\\Users\\christian\\Documents\\GitHub\\EDCoPilot\\app",
+			"C:\\Users\\christian\\Documents\\GitHub\\EDCoPilot\\app, stations.json",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dec",
+			"Math.tan",
+			"Math.atan2",
+			"Math.acos",
+			"3.6",
+			"end",
+			"console.log",
+			"end",
+			"THREE",
+			"updateMouseOnBall",
+			"THREE.Math",
+			"console",
+			"checkForEnd",
+			"lastPosition",
+			"change",
+			"zoom",
+			"\"zoom\"",
+			"end",
+			"loadMolecule",
+			"end",
+			"red",
+			"zoomStart",
+			"evil",
+			"zoomCamera",
+			"panEnd",
+			"mouseOnBall",
+			"target0",
+			"state",
+			"track",
+			"mousemove",
+			"getMouseOnScreen",
+			"getMo",
+			"document",
+			"Quart",
+			"_",
+			"_rotateStart",
+			"getMouseOnScreen",
+			"svg",
+			"loadMolecule",
+			"camera",
+			"_width",
+			"_widthHalf",
+			"_width",
+			"_widthHalf",
+			"_width",
+			"domElement",
+			"width",
+			"_width",
+			"cameraElement",
+			"renderObject",
+			"cache",
+			"matrix",
+			"getObjectCSS",
+			"scene",
+			"imageToCanvas",
+			"Object3D",
+			"CSS3DSprite",
+			"_width",
+			"epsilon",
+			"getCamera",
+			"getObjectCSSMatrix",
+			".style.",
+			"colorify",
+			"fog",
+			"console",
+			"CameraController",
+			"attenu",
+			"container",
+			"Stats",
+			"kepler",
+			" |",
+			"| ",
+			"  ",
+			"\\s\\s+",
+			"\\s*",
+			"  ",
+			"| |",
+			"  ",
+			"   ",
+			" ",
+			"  ",
+			" ",
+			"  ",
+			" ",
+			"  ",
+			"\n",
+			"\",\"",
+			"	",
+			"Beryll",
+			"std",
+			"o",
+			"rc1",
+			"Shavyrin Terminal",
+			"Shav",
+			"createTextNode",
+			"deepEach",
+			"each",
+			"this.push",
+			"console.log",
+			"\"string\":",
+			"\"string\"",
+			"collection",
+			"isEnumerable",
+			"isLiteral",
+			"obj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".cssStyle.",
+			"|",
+			" ",
+			"||",
+			" ",
+			"\",\n\"",
+			"\",\n",
+			"\":\"",
+			"\",\"",
+			"sdt",
+			"r",
+			"rc2",
+			"this.add",
+			"shouldEnumerate",
+			"isNative"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jsdb.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
